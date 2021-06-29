@@ -15,7 +15,8 @@
 
     // Your code here...
 
-    var magicWord = "&rh=p_6%3AAN1VRQENFRJN5";
+    //var magicWord = "&rh=p_6%3AAN1VRQENFRJN5";
+    var magicWord = "&emi=AN1VRQENFRJN5";
 
     console.log(location.href);
     console.log(location.href.indexOf(magicWord));
